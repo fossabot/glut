@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Frhencke%2Fglut.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Frhencke%2Fglut?ref=badge_shield)
+
 Go bindings for GLUT: https://github.com/rhencke/glut
 
 If you are using Linux, please ensure you have installed GLUT or freeglut.
@@ -12,3 +14,7 @@ To run the examples:
     fontdemo
     go get github.com/rhencke/glut/examples/simple
     simple
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Frhencke%2Fglut.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Frhencke%2Fglut?ref=badge_large)
